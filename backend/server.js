@@ -12,7 +12,7 @@ app.get('/',(req,res)=>{
 })
 
 dotenv.config();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 
 app.use(express.json()); // to parse the incoming requests with json payloads ( from req.body)
