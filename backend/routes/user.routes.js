@@ -5,5 +5,4 @@ import { getUsersForSlideBar } from "../controllers/user.controllers.js";
 const router = express.Router()
 
 router.get("/",protectRoute,getUsersForSlideBar)
-
-export default router
+export default router;

@@ -1,4 +1,3 @@
-import React from "react";
 import Conversations from "./Conversations.jsx";
 import LogoutButton from "./LogoutButton.jsx";
 import SearchInput from "./SearchInput.jsx";

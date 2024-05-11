@@ -1,5 +1,3 @@
-import React from 'react'
-
 import MessageContainer from "../../components/messages/MessageContainer.jsx";
 import Sidebar from "../../components/sidebar/Sidebar.jsx";
 

@@ -7,14 +7,11 @@ export const getUsersForSlideBar = async(req,res)=>
    
      const loggedInUserId = req.user._id;
 
+
      const filteredUser = await User.find({_id:{$ne:loggedInUserId}}).select("-password");
 
      res.status(200).
      json(filteredUser)
-
-
-
-
    } 
    
    
