@@ -1,6 +1,6 @@
 # MyChatApp - Real-time Chat Application
 
-![MyChatApp](chatapp-screenshot.png)
+![MyChatApp](https://github.com/AnktSnghmeh01a/myChatApp/blob/main/Screenshots/home.png)
 
 ## Description
 MyChatApp is a real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It enables users to engage in real-time conversations seamlessly.
